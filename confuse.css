@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .confuse {
   font-size: 21px;
 }
@@ -19,3 +20,26 @@ con2 {
   font-size: 40px;
   font-weight: bolder;
 }
+=======
+.confuse {
+  font-size: 21px;
+}
+
+.confuse-1 {
+  font-size: 21px;
+}
+
+.hell {
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+con2 {
+  font-size: 21px;
+}
+
+.hell-2 {
+  font-size: 40px;
+  font-weight: bolder;
+}
+>>>>>>> 0d0889d (netflix clone add)
